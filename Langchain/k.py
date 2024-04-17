@@ -2,7 +2,7 @@
 class key : 
 
     def __init__(self , key : str)  -> None:
-        self.key1 = key
+        self.geminiAikey = key
 
 
-genAikey = key('AIzaSyAwWFeYOq4P-9XFxSh359ifGyjTU2QKiVk')
+keys = key('AIzaSyAwWFeYOq4P-9XFxSh359ifGyjTU2QKiVk')
