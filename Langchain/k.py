@@ -5,4 +5,3 @@ class key :
         self.geminiAikey = key
 
 
-keys = key('AIzaSyAwWFeYOq4P-9XFxSh359ifGyjTU2QKiVk')
